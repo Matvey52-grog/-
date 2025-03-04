@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+header {
+   background-color: #FA8072;
+   padding: 10px;
+   border-radius: 15px; 
+}
+header a {
+    text-decoration: none;
+}
+h1 {
+    color: aqua;
+    background-color: navy;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: cascadia-mono;
+    text-align: center;
+}
+footer {
+    background-color: crimson;
+    color: white;
+    padding: 5px;
+    font-family: 'Times New Roman';
+    border-radius: 15px;
+    text-align: center;
+}
+.produkcia {
+    background-color: coral;
+    margin: 0px;
+    padding: 10px;
+    border: 2px solid black;
+    color: darkcyan;
+    border-radius: 10px;
+    text-align: center;
+    font-family: bell mt;
+}
